@@ -1,0 +1,10 @@
+Create a repository       >>> htttps...............git
+open git bash
+git clone 
+
+
+u >> untracked files
+
+git status
+
+git add .     >>> all files has been tracked by git
