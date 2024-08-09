@@ -4,6 +4,8 @@ git clone
 
 
 u >> untracked files
+A>>> Added files
+M>  modified files
 
 git status
 
